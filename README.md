@@ -1,5 +1,8 @@
 # 🏬 Superstore Sales Dashboard - Power BI
 
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjE0YzBiYmEtNTQ2NC00YzRkLTlhNDQtMmRkYTkzMzc2YTY1IiwidCI6IjA3YzJjY2MxLTZlZTYtNDdhZi05ZTg3LTYyZDI1Yjk0M2UxNiJ9)
+
+
 A business intelligence dashboard created using Power BI to analyze Superstore’s performance across categories, regions, and time.
 
 ## 🛠 Tools
@@ -19,4 +22,3 @@ A business intelligence dashboard created using Power BI to analyze Superstore�
 - Helps management identify underperforming segments
 - Drives strategic decisions through visual analytics
 - 
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjE0YzBiYmEtNTQ2NC00YzRkLTlhNDQtMmRkYTkzMzc2YTY1IiwidCI6IjA3YzJjY2MxLTZlZTYtNDdhZi05ZTg3LTYyZDI1Yjk0M2UxNiJ9)
